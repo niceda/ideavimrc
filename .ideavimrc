@@ -36,6 +36,7 @@ nnoremap <c-l> <c-w>l
 nnoremap <c-j> <c-w>j
 nnoremap <c-h> <c-w>h
 nnoremap <c-k> <c-w>k
+map s <nop>
 
 " Lsp
 nnoremap <leader>lr :action RenameElement<CR>
