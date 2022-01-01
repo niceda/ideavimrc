@@ -56,7 +56,7 @@ nnoremap <leader>do :action StepOver<CR>
 
 " Search && Replace
 nnoremap <leader>P :action ManageRecentProjects<CR>
-nnoremap <Leader>f <ESC>:action GotoFile<CR>
+nnoremap <Leader>sf <ESC>:action GotoFile<CR>
 nnoremap <leader>st :action FindInPath<CR>
 nnoremap <leader>sc :action GotoAction<cr>
 nnoremap <leader>rf :action ReplaceInPath<CR>
